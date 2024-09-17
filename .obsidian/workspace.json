@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "57e5e739a017655e",
+        "id": "1c8e5a27be404753",
         "type": "tabs",
         "children": [
           {
-            "id": "15fcbc69833a4f44",
+            "id": "1aed2b61238de15c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Learning/Devops/kubernetes/010_helm.md",
+                "file": "02_Study/Devops/kubernetes/010_helm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,54 +21,31 @@
             }
           },
           {
-            "id": "dfcdbed66f954bd3",
+            "id": "79362045e308c016",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02_Learning/Devops/kubernetes/___kubernetes.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "02_Study/Devops/kubernetes/009_generating_manifests.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            }
-          },
-          {
-            "id": "c7ac1d31f305b9c8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
       },
       {
-        "id": "c5dbdebc18d9c954",
+        "id": "321a8dbbcae60cff",
         "type": "tabs",
         "children": [
           {
-            "id": "50613cea3615d851",
+            "id": "74cd4efd94ea7ea4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Learning/Devops/kubernetes/005_objects_classes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e303f6361b2a7cea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Learning/Devops/kubernetes/007_policies.md",
+                "file": "02_Study/Devops/kubernetes/005_objects_classes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -143,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Learning/Devops/kubernetes/010_helm.md",
+                "file": "02_Study/Devops/kubernetes/010_helm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Learning/Devops/kubernetes/010_helm.md",
+                "file": "02_Study/Devops/kubernetes/010_helm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Learning/Devops/kubernetes/010_helm.md"
+                "file": "02_Study/Devops/kubernetes/010_helm.md"
               }
             }
           },
@@ -229,56 +206,59 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "15fcbc69833a4f44",
+  "active": "1aed2b61238de15c",
   "lastOpenFiles": [
+    "02_Study/Devops/___devops_index.md",
+    "02_Study/Devops/___devops.canvas",
+    "02_Study/Devops/kubernetes/010_helm.md",
+    "02_Study/Devops/kubernetes/009_generating_manifests.md",
+    "02_Study/Devops/kubernetes/005_objects_classes.md",
     "02_Learning/Devops/kubernetes/010_helm.md",
-    "02_Learning/Devops/kubernetes/___index.md",
-    "02_Learning/Devops/kubernetes/009_generating_manifests.md",
-    "02_Learning/Devops/kubernetes/005_objects_classes.md",
+    "02_Study/Frontend/React/Topics/00011_accessibilty.md",
+    "02_Study/Frontend/React/Topics/00010_Performance.md",
+    "02_Study/Frontend/React/Topics/00009_testing.md",
+    "02_Study/Frontend/React/Topics/00008_Routine_RBAC.md",
+    "02_Study/Frontend/React/Topics/00007_SEO.md",
+    "02_Study/Frontend/React/Topics/00006_SSR_CSR.md",
+    "02_Study/Frontend/React/Topics/00005_rendering.md",
+    "02_Study/Frontend/React/Topics/00004_Reconciliation.md",
+    "02_Study/Frontend/React/Topics/00003_Diffing_Algorithm.md",
+    "02_Study/Frontend/React/Topics/00002_Life_cycle_methods.md",
+    "02_Study/Frontend/React/Topics/00001_Virtual_dom.md",
+    "02_Study/Frontend/React/Topics/00000_everything.md",
+    "02_Study/Devops/networking/screenshots/content3.png",
+    "02_Study/Devops/networking/screenshots/content2.png",
+    "02_Study/Devops/networking/screenshots/content1.png",
+    "02_Study/Devops/kubernetes/___screenshots/Pasted image 20240915230948.png",
+    "02_Study/Devops/kubernetes/___screenshots/Pasted image 20240915221421.png",
+    "02_Study/Devops/kubernetes/___screenshots/Pasted image 20240915221307.png",
+    "02_Study/Frontend/screenshots/TypeScript Types.png",
+    "02_Study/Frontend/screenshots/TypeScript Interfaces.png",
+    "02_Study/Frontend/screenshots/TypeScript Control Flow Analysis.png",
+    "02_Study/Frontend/screenshots/TypeScript Classes.png",
+    "02_Study/Frontend/screenshots/Screen Recording 2024-07-15 190943.mp4",
+    "02_Study/Frontend/React/Topics",
+    "02_Study/Frontend/React/0001_SSR_react_express.md",
+    "02_Study/Frontend/Next/0001_appwrite_zustand_auth_nextjs.md",
+    "02_Study/DSA/Tree/0001_BST.md",
+    "02_Study/DSA/Advanced/0004_segment_trees.md",
+    "02_Study/DSA/Advanced/0003_interval_tree.md",
+    "02_Study/DSA/Advanced/0002_Red_Black_Tree.md",
+    "02_Study/DSA/Advanced/0001_AVL_Tree.md",
+    "02_Study/Devops/___unCategorised/0004_tools_to_know.md",
+    "02_Study/Devops/___unCategorised/0003_virtual_machines.md",
+    "02_Study/Devops/___screenshots/digital-ai-periodic-table-of-devsecops-2024-may.pdf",
+    "02_Study/Devops/networking/___networking.canvas",
+    "02_Study/Devops/networking/screenshots",
+    "02_Study/Devops/kubernetes/___screenshots",
+    "02_Study/Devops/kubernetes/___kubernetes.canvas",
+    "02_Study/Frontend/screenshots",
+    "02_Study/Frontend/React",
+    "02_Study/Frontend/Next",
+    "02_Study/DSA/Tree",
+    "02_Study/DSA/Linear",
     "02_Learning/Devops/kubernetes/___kubernetes.canvas",
-    "[[005_objects_classes]].md",
-    "02_Learning/Devops/networking/009_subnetting.md",
-    "02_Learning/Devops/kubernetes/007_policies.md",
-    "02_Learning/Devops/kubernetes/001_intro.md",
-    "02_Learning/Devops/networking/___index.md",
-    "02_Learning/Devops/networking/008_network_security.md",
-    "02_Learning/Devops/networking/007_three_way_handshake.md",
-    "02_Learning/Devops/networking/006_DNS.md",
-    "02_Learning/Devops/networking/005_tcp_ip_model.md",
-    "02_Learning/Devops/networking/004_OSI_model.md",
-    "02_Learning/Devops/networking/003_topics.md",
-    "02_Learning/Devops/networking/002_topologies.md",
-    "02_Learning/Devops/networking/001_networking_devices.md",
-    "02_Learning/Devops/networking/000_protocols.md",
     "02_Learning/Devops/networking/___networking.canvas",
-    "02_Learning/Devops/___devops.canvas",
-    "02_Learning/Devops/docker/002_dockerfiles.md",
-    "02_Learning/Devops/___unCategorised/0000_intro.md",
-    "02_Learning/Devops/docker/___index.md",
-    "02_Learning/Devops/___devops_index.md",
-    "02_Learning/Devops/ci-cd/003_Github_action.md",
-    "02_Learning/Devops/ci-cd/002_Jenkins.md",
-    "01_Projects/snappy_notes/resources.md",
-    "02_Learning/Devops/networking/screenshots/content1.png",
-    "02_Learning/Devops/networking/screenshots/content2.png",
-    "02_Learning/Devops/networking/screenshots/content3.png",
-    "02_Learning/Devops/docker/001_docker_networking.md",
-    "02_Learning/Devops/kubernetes/___screenshots/Pasted image 20240915230948.png",
-    "02_Learning/Devops/___screenshots/Pasted image 20240830191353.png",
-    "02_Learning/Devops/kubernetes/___screenshots/Pasted image 20240915221421.png",
-    "02_Learning/Devops/kubernetes/___screenshots/Pasted image 20240915221307.png",
-    "02_Learning/Devops/___unCategorised",
-    "02_Learning/Devops/kubernetes/___screenshots/components-of-kubernetes",
-    "02_Learning/Devops/kubernetes/___screenshots/components-of-kubernetes.crdownload",
-    "02_Learning/Devops/kubernetes/___screenshots/components-of-kubernetes.svg",
-    "02_Learning/Devops/kubernetes/___screenshots/components-of-kubernetes.svg.crdownload",
-    "02_Learning/Devops/kubernetes/___screenshots",
-    "02_Learning/Devops/kubernetes/New folder",
-    "02_Learning/Devops/kubernetes",
-    "00_Quick_notes",
-    "02_Learning/Devops/ci-cd",
-    "02_Learning/Devops/___screenshots/digital-ai-periodic-table-of-devsecops-2024-may.pdf",
-    "02_Learning/Devops/___screenshots/Pasted image 20240727230424.png",
-    "02_Learning/Devops/___screenshots/Pasted image 20240727230411.png"
+    "02_Learning/Devops/___devops.canvas"
   ]
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
-      "LiList",
-      "FarImage",
-      "🖼",
-      "LiWorkflow",
-      "LiNetwork"
+      "LiNetwork",
+      "🐧",
+      "LiShipWheel",
+      "🐳",
+      "♾"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,16 +35,13 @@
   },
   "00_Quick_notes": "🌩",
   "01_Projects": "💻",
-  "02_Learning": "📔",
   "03_Journal": "🖋",
-  "02_Learning/Backend": "LiServer",
-  "02_Learning/Devops": "♾",
-  "02_Learning/Devops/docker": "🐳",
-  "02_Learning/Devops/kubernetes": {
-    "iconName": "LiShipWheel",
-    "iconColor": "#ffffff"
-  },
-  "02_Learning/Devops/linux": "🐧",
-  "02_Learning/Devops/networking": "LiNetwork",
-  "02_Learning/Devops/ci-cd": "LiWorkflow"
+  "02_Study": "📕",
+  "02_Study/Backend": "LiServer",
+  "02_Study/Devops": "☁",
+  "02_Study/Devops/ci-cd": "♾",
+  "02_Study/Devops/docker": "🐳",
+  "02_Study/Devops/kubernetes": "LiShipWheel",
+  "02_Study/Devops/linux": "🐧",
+  "02_Study/Devops/networking": "LiNetwork"
 }
