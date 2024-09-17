@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 17,
+    "emojiStyle": "native",
+    "iconColor": "#ffffff",
+    "recentlyUsedIcons": [
+      "LiList",
+      "FarImage",
+      "🖼",
+      "LiWorkflow",
+      "LiNetwork"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "00_Quick_notes": "🌩",
+  "01_Projects": "💻",
+  "02_Learning": "📔",
+  "03_Journal": "🖋",
+  "02_Learning/Backend": "LiServer",
+  "02_Learning/Devops": "♾",
+  "02_Learning/Devops/docker": "🐳",
+  "02_Learning/Devops/kubernetes": {
+    "iconName": "LiShipWheel",
+    "iconColor": "#ffffff"
+  },
+  "02_Learning/Devops/linux": "🐧",
+  "02_Learning/Devops/networking": "LiNetwork",
+  "02_Learning/Devops/ci-cd": "LiWorkflow"
+}

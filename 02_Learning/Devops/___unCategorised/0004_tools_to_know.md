@@ -1,0 +1,1 @@
+![[digital-ai-periodic-table-of-devsecops-2024-may.pdf]]
