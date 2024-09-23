@@ -1,3 +1,3 @@
-- [[02_Learning/Devops/ci-cd/001_intro]]
+- [[02_Study/Devops/ci-cd/001_intro]]
 - [[002_Jenkins]]
 - [[003_Github_action]]

@@ -28,3 +28,7 @@ INDEX: indexing for the devops section
 
 ### CI CD
 - [[02_Learning/Devops/ci-cd/index|index]]
+
+# IAC
+***Terraform - [[02_Study/Devops/terraform/___index|___index]]***
+***Ansible - [[02_Study/Devops/ansible/___index|___index]]***

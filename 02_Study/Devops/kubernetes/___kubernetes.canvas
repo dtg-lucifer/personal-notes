@@ -1,1 +1,37 @@
-{}
+{
+	"nodes":[
+		{"id":"7da772d65cbc438a","x":-240,"y":-220,"width":400,"height":400,"type":"file","file":"02_Study/Devops/kubernetes/___index.md"},
+		{"id":"edde4b33dd51fa96","x":460,"y":-280,"width":520,"height":400,"type":"file","file":"02_Study/Devops/kubernetes/001_intro.md"},
+		{"id":"33a51c717d5c49f9","x":360,"y":220,"width":560,"height":560,"type":"file","file":"02_Study/Devops/kubernetes/002_setup.md"},
+		{"id":"eefd965b36096452","x":-180,"y":460,"width":480,"height":440,"type":"file","file":"02_Study/Devops/kubernetes/003_deployment.md"},
+		{"id":"ef4b72887a257bea","x":-840,"y":480,"width":520,"height":460,"type":"file","file":"02_Study/Devops/kubernetes/004_service.md"},
+		{"id":"ab0c093e13275c14","x":-1040,"y":-320,"width":460,"height":440,"type":"file","file":"02_Study/Devops/kubernetes/005_objects_classes.md"},
+		{"id":"bac23084be1a5d3d","x":-1520,"y":280,"width":480,"height":520,"type":"file","file":"02_Study/Devops/kubernetes/006_resource_management.md"},
+		{"id":"fd9278f42f3f9cc0","x":414,"y":-808,"width":400,"height":400,"type":"file","file":"02_Study/Devops/kubernetes/007_policies.md"},
+		{"id":"5181879a3b94ed8b","x":-360,"y":-871,"width":527,"height":431,"type":"file","file":"02_Study/Devops/kubernetes/008_components.md"},
+		{"id":"c594f19b9fddbddc","x":-1040,"y":-871,"width":400,"height":400,"type":"file","file":"02_Study/Devops/kubernetes/009_generating_manifests.md"},
+		{"id":"1fb536507ae31d95","x":-1685,"y":-689,"width":485,"height":469,"type":"file","file":"02_Study/Devops/kubernetes/010_helm.md"},
+		{"id":"8eab45e4516ed4e0","x":1280,"y":-871,"width":633,"height":1231,"type":"file","file":"02_Study/Devops/kubernetes/011_must_know_tools_CNCF.md"},
+		{"id":"a1864ac6de42646b","x":1196,"y":631,"width":400,"height":400,"type":"file","file":"02_Study/Devops/kubernetes/012_service_discovery_service_mesh.md"},
+		{"id":"e863e2f47de00c75","x":535,"y":1118,"width":400,"height":400,"type":"file","file":"02_Study/Devops/kubernetes/013_container_networking.md"},
+		{"id":"98d2f7127403c76f","x":-463,"y":1250,"width":400,"height":400,"type":"file","file":"02_Study/Devops/kubernetes/014_tracing_logging_monitoring.md"}
+	],
+	"edges":[
+		{"id":"a4bb6d8ae23f1f83","fromNode":"7da772d65cbc438a","fromSide":"right","toNode":"edde4b33dd51fa96","toSide":"left"},
+		{"id":"12915ef4ab476e41","fromNode":"7da772d65cbc438a","fromSide":"right","toNode":"33a51c717d5c49f9","toSide":"left"},
+		{"id":"6632b87511299a40","fromNode":"7da772d65cbc438a","fromSide":"bottom","toNode":"eefd965b36096452","toSide":"top"},
+		{"id":"2e56b9f55677668c","fromNode":"7da772d65cbc438a","fromSide":"bottom","toNode":"ef4b72887a257bea","toSide":"top"},
+		{"id":"b5621b4d34a6c20e","fromNode":"ab0c093e13275c14","fromSide":"bottom","toNode":"ef4b72887a257bea","toSide":"top"},
+		{"id":"b22475663732c193","fromNode":"ab0c093e13275c14","fromSide":"bottom","toNode":"eefd965b36096452","toSide":"top"},
+		{"id":"5d4168cf6fb04593","fromNode":"7da772d65cbc438a","fromSide":"left","toNode":"ab0c093e13275c14","toSide":"right"},
+		{"id":"aa72a218b0821d29","fromNode":"7da772d65cbc438a","fromSide":"left","toNode":"bac23084be1a5d3d","toSide":"right"},
+		{"id":"a1ebaf6b4623fb0e","fromNode":"7da772d65cbc438a","fromSide":"right","toNode":"fd9278f42f3f9cc0","toSide":"left"},
+		{"id":"09e89a82a8362be3","fromNode":"7da772d65cbc438a","fromSide":"top","toNode":"5181879a3b94ed8b","toSide":"bottom"},
+		{"id":"b7a6cb05e6d5aaaf","fromNode":"7da772d65cbc438a","fromSide":"top","toNode":"c594f19b9fddbddc","toSide":"bottom"},
+		{"id":"ff39758fc3b8ff38","fromNode":"7da772d65cbc438a","fromSide":"left","toNode":"1fb536507ae31d95","toSide":"right"},
+		{"id":"3e0d8e525f2009c8","fromNode":"7da772d65cbc438a","fromSide":"top","toNode":"8eab45e4516ed4e0","toSide":"left"},
+		{"id":"a1ecf5314e214acd","fromNode":"7da772d65cbc438a","fromSide":"bottom","toNode":"a1864ac6de42646b","toSide":"top"},
+		{"id":"21f16302e3dc48fc","fromNode":"7da772d65cbc438a","fromSide":"bottom","toNode":"e863e2f47de00c75","toSide":"top"},
+		{"id":"0aae7882e83e19b8","fromNode":"7da772d65cbc438a","fromSide":"left","toNode":"98d2f7127403c76f","toSide":"top"}
+	]
+}

@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"d1e8f18e3a935179","x":711,"y":977,"width":400,"height":400,"type":"file","file":"02_Learning/Devops/networking/008_network_security.md"},
+		{"id":"d1e8f18e3a935179","type":"file","file":"02_Study/Devops/networking/008_network_security.md","x":711,"y":977,"width":400,"height":400},
 		{"id":"6e16e390479b9e98","type":"text","text":"Index - [[___index]]","x":-454,"y":-528,"width":194,"height":60,"color":"6"},
-		{"id":"5c31169bb621e079","x":-491,"y":-290,"width":400,"height":400,"type":"file","file":"02_Learning/Devops/networking/___index.md"},
-		{"id":"8fd9124f4973db22","x":240,"y":-90,"width":400,"height":400,"type":"file","file":"02_Learning/Devops/networking/000_protocols.md"},
-		{"id":"6740be4179b98183","x":200,"y":400,"width":400,"height":400,"type":"file","file":"02_Learning/Devops/networking/001_networking_devices.md"},
-		{"id":"a92ce528f96f8115","x":-1245,"y":-84,"width":400,"height":400,"type":"file","file":"02_Learning/Devops/networking/002_topologies.md"},
-		{"id":"6349007ae45d8ade","x":-1243,"y":381,"width":400,"height":400,"type":"file","file":"02_Learning/Devops/networking/003_topics.md"},
-		{"id":"971bf3d5822aec7a","x":-1267,"y":997,"width":400,"height":400,"type":"file","file":"02_Learning/Devops/networking/004_OSI_model.md"},
-		{"id":"556afc8494b9734e","x":40,"y":1000,"width":400,"height":400,"type":"file","file":"02_Learning/Devops/networking/006_DNS.md"},
-		{"id":"4c3ecc1bc4710886","x":-360,"y":381,"width":400,"height":400,"type":"file","file":"02_Learning/Devops/networking/005_tcp_ip_model.md"},
-		{"id":"08dd378f0f45545e","x":-760,"y":1197,"width":400,"height":400,"type":"file","file":"02_Learning/Devops/networking/007_three_way_handshake.md"}
+		{"id":"5c31169bb621e079","type":"file","file":"02_Study/Devops/networking/___index.md","x":-491,"y":-290,"width":400,"height":400},
+		{"id":"8fd9124f4973db22","type":"file","file":"02_Study/Devops/networking/000_protocols.md","x":240,"y":-90,"width":400,"height":400},
+		{"id":"6740be4179b98183","type":"file","file":"02_Study/Devops/networking/001_networking_devices.md","x":200,"y":400,"width":400,"height":400},
+		{"id":"a92ce528f96f8115","type":"file","file":"02_Study/Devops/networking/002_topologies.md","x":-1245,"y":-84,"width":400,"height":400},
+		{"id":"6349007ae45d8ade","type":"file","file":"02_Study/Devops/networking/003_topics.md","x":-1243,"y":381,"width":400,"height":400},
+		{"id":"971bf3d5822aec7a","type":"file","file":"02_Study/Devops/networking/004_OSI_model.md","x":-1267,"y":997,"width":400,"height":400},
+		{"id":"556afc8494b9734e","type":"file","file":"02_Study/Devops/networking/006_DNS.md","x":40,"y":1000,"width":400,"height":400},
+		{"id":"4c3ecc1bc4710886","type":"file","file":"02_Study/Devops/networking/005_tcp_ip_model.md","x":-360,"y":381,"width":400,"height":400},
+		{"id":"08dd378f0f45545e","type":"file","file":"02_Study/Devops/networking/007_three_way_handshake.md","x":-760,"y":1197,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"8a3678afa9013d46","fromNode":"6e16e390479b9e98","fromSide":"bottom","toNode":"5c31169bb621e079","toSide":"top"},

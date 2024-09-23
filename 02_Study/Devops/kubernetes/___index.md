@@ -14,3 +14,7 @@ This is the index file for the kubernetes notes
 - [[008_components]]
 - [[009_generating_manifests]]
 - [[010_helm]]
+- [[011_must_know_tools_CNCF]]
+- [[012_service_discovery_service_mesh]]
+- [[013_container_networking]]
+- [[014_tracing_logging_monitoring]]

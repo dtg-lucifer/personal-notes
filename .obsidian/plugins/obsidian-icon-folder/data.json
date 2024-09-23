@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
-      "LiNetwork",
-      "🐧",
-      "LiShipWheel",
-      "🐳",
-      "♾"
+      "🖥",
+      "LiCode2",
+      "LiCloudCog",
+      "🌩",
+      "LiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,9 @@
   "02_Study/Devops/docker": "🐳",
   "02_Study/Devops/kubernetes": "LiShipWheel",
   "02_Study/Devops/linux": "🐧",
-  "02_Study/Devops/networking": "LiNetwork"
+  "02_Study/Devops/networking": "LiNetwork",
+  "02_Study/Devops/terraform": "🌩",
+  "02_Study/Devops/ansible": "LiCloudCog",
+  "02_Study/Devops/terraform/examples": "LiCode2",
+  "02_Study/Frontend": "🖥"
 }

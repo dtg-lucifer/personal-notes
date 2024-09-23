@@ -44,3 +44,10 @@ annotations:
   example:
 
 ```
+
+> ***To show all of the metadata which helm will generate from the files we have to run this command***
+> 
+> `helm show all ./helm/chart/folder`
+
+
+

@@ -1,0 +1,198 @@
+{
+  "workspaces": {
+    "Study": {
+      "main": {
+        "id": "8ae64dcb5395579e",
+        "type": "split",
+        "children": [
+          {
+            "id": "76e703b4ef3d1ae9",
+            "type": "tabs",
+            "dimension": 53.80078636959371,
+            "children": [
+              {
+                "id": "6ebd750f4148af9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Study/Devops/terraform/001_how_it_works.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "34c28102b4aa8f14",
+            "type": "tabs",
+            "dimension": 46.19921363040629,
+            "children": [
+              {
+                "id": "81fb1f54508df939",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "094750d823674d3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "e10ee62ecfe97bdf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dc6314eb85f0537c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "nat",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0cad7079225d0133",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4adc33abcf39cf9f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 334.5
+      },
+      "right": {
+        "id": "77ce890168a040d9",
+        "type": "split",
+        "children": [
+          {
+            "id": "428e20fbc93845cd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f12b124a29204fff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02_Study/Devops/terraform/001_how_it_works.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9a081822ab393231",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "02_Study/Devops/terraform/001_how_it_works.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "2bfdb6581e8036cc",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "9bd843b7545b8e3a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02_Study/Devops/terraform/001_how_it_works.md"
+                  }
+                }
+              },
+              {
+                "id": "c0d78fb1d2b7f5da",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "39bcd8127ac69b0b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c894dcd8ca61bfc",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 314.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": true,
+          "pomodoro-timer:Toggle timer panel": false
+        }
+      },
+      "active": "6ebd750f4148af9e",
+      "mtime": "2024-09-20T12:37:12+05:30"
+    }
+  },
+  "active": "Study"
+}

@@ -15,23 +15,51 @@
       }
     },
     {
-      "query": "path:02_Learning/Devops  ",
+      "query": "path:02_Study/Devops  ",
       "color": {
         "a": 1,
-        "rgb": 52479
+        "rgb": 4980991
+      }
+    },
+    {
+      "query": "path:02_Study/Backend  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:02_Study/DSA  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:02_Study/Frontend  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:01_Projects  ",
+      "color": {
+        "a": 1,
+        "rgb": 27545
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.466145833333333,
-  "repelStrength": 7.96875,
-  "linkStrength": 0,
-  "linkDistance": 112,
-  "scale": 0.4379170775331095,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 0.859244791666667,
+  "lineSizeMultiplier": 0.808203125,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 8.02083333333333,
+  "linkStrength": 0.109375,
+  "linkDistance": 30,
+  "scale": 0.4273672905201953,
   "close": true
 }
