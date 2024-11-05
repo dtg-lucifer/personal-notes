@@ -23,8 +23,6 @@ We want to give the app the look of an actual hand written note base like the **
 
 ![[Pasted image 20240628113628.png]]
 
-![[Pasted image 20240630003851.png]]
-
 ---
 ## Why do we need to create this type of project ?
 
@@ -46,4 +44,4 @@ We want to give the app the look of an actual hand written note base like the **
 - The rich text editor should look like ***One Note***
 - The ***Sketch*** section should have a ==**Laser pointer type tool which will be used in presentation mode**==
 - Every user should be able to attach their own sketches to the text area whenever and wherever they want.
-- 
+- Each user should get a space to hold their own written notes inside the name of their username as the href of the slug as `/notes/user_name/{slug}`

@@ -4,6 +4,8 @@
 
 - **Services**: A Kubernetes Service is an abstraction that defines a logical set of Pods and a policy by which to access them. [Services provide a stable endpoint (IP address and DNS name) for a set of Pods, ensuring that even if the underlying Pods change, the service endpoint remains consistent](https://kubernetes.io/docs/concepts/services-networking/service/)[1](https://kubernetes.io/docs/concepts/services-networking/service/).
 - **DNS**: Kubernetes clusters include a DNS server that automatically assigns DNS names to Services. [This allows applications to refer to services by name, rather than by IP address, which can change over time](https://kubernetes.io/docs/concepts/services-networking/service/)[1](https://kubernetes.io/docs/concepts/services-networking/service/).
+	- **Default DNS name pattern:** 
+		- *`http://[service-name].[namespace].[kind].[cluster].[local]`*
 
 ### Service Mesh in Kubernetes
 

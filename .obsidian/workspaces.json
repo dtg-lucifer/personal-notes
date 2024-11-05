@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "Study": {
+    "Taking Notes For Different Topics With their indexes open": {
       "main": {
         "id": "8ae64dcb5395579e",
         "type": "split",
@@ -8,15 +8,28 @@
           {
             "id": "76e703b4ef3d1ae9",
             "type": "tabs",
-            "dimension": 53.80078636959371,
+            "dimension": 56.15989515072084,
             "children": [
+              {
+                "id": "94d00ec8d333c717",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Study/Devops/___unCategorised/0006_setup_server_for_CICD.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
               {
                 "id": "6ebd750f4148af9e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02_Study/Devops/terraform/001_how_it_works.md",
+                    "file": "02_Study/Devops/kubernetes/013_container_networking.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -26,19 +39,50 @@
             ]
           },
           {
-            "id": "34c28102b4aa8f14",
-            "type": "tabs",
-            "dimension": 46.19921363040629,
+            "id": "00e24cd4e262836a",
+            "type": "split",
+            "dimension": 43.84010484927916,
             "children": [
               {
-                "id": "81fb1f54508df939",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
+                "id": "7209bcd1ef2de7e2",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "8c6ddc78c5f0c989",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02_Study/Devops/___devops_index.md",
+                        "mode": "source",
+                        "backlinks": false,
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "45f6625e0a1170e9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ac4b4ca1ba21f7bf",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02_Study/System Design/___index.md",
+                        "mode": "source",
+                        "backlinks": false,
+                        "source": false
+                      }
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           }
         ],
         "direction": "vertical"
@@ -105,7 +149,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "02_Study/Devops/terraform/001_how_it_works.md",
+                    "file": "02_Study/Devops/___devops_index.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -122,7 +166,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "02_Study/Devops/terraform/001_how_it_works.md",
+                    "file": "02_Study/Devops/___devops_index.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -145,7 +189,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "02_Study/Devops/terraform/001_how_it_works.md"
+                    "file": "02_Study/Devops/___devops_index.md"
                   }
                 }
               },
@@ -190,9 +234,9 @@
           "pomodoro-timer:Toggle timer panel": false
         }
       },
-      "active": "6ebd750f4148af9e",
-      "mtime": "2024-09-20T12:37:12+05:30"
+      "active": "8c6ddc78c5f0c989",
+      "mtime": "2024-10-08T20:26:50+05:30"
     }
   },
-  "active": "Study"
+  "active": "Taking Notes For Different Topics With their indexes open"
 }

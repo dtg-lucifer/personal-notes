@@ -2,4 +2,4 @@
 - [[Backend_Index]]
 - [[DSA_Index]] - #dsa #algorithms
 - [[___devops_index]]
-- [[system_desing_index]]
+- [[02_Study/System Design/___index]]

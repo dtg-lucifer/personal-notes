@@ -43,7 +43,7 @@ This method performs the following steps:
 
 - Step 1. `ClientHello`: Client specifies the TLS version and cipher suites it supports, and then sends to the server.
 - Step 2. `ServerHello`: Server verifies it can use the specified TLS version and cipher suite. It provides its certificate and public key, and then sends `ServerHelloDone`.
-- Step 3. Key exchange: The client and the server exchange key data for symmetric encryption.
+- Step 3. `Key exchange`: The client and the server exchange key data for symmetric encryption.
 
 ---
 # MAC Addresses

@@ -5,6 +5,10 @@
 - [[003_resources|Types of resrouces and basic syntax]]
 - [[004_modules|How modules works and how to use them]]
 - [[005_combine_with_ansible|Combine terraform with ansible]]
+- [[006_variables]]
+- [[007_advanced_syntax]]
+- [[008_remote_state]]
+- [[009_backend_resource]]
 
 # Examples
 - [[001_aws_security_group]]
@@ -12,4 +16,7 @@
 - [[003_aws_load_balancer]]
 - [[004_aws_auto_scaling_group]]
 - [[005_folder_structure]]
+- [[006_private_subnet_vpc]]
+- [[007_vpc_to_onpremise_vpn_connection]]
+
 

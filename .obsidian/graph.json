@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 27545
       }
+    },
+    {
+      "query": "path:\"02_Study/System Design\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14712592
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 8.02083333333333,
   "linkStrength": 0.109375,
   "linkDistance": 30,
-  "scale": 0.4273672905201953,
+  "scale": 0.377539345988226,
   "close": true
 }

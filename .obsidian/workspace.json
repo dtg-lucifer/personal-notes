@@ -6,51 +6,150 @@
       {
         "id": "76e703b4ef3d1ae9",
         "type": "tabs",
-        "dimension": 53.80078636959371,
+        "dimension": 56.15989515072084,
         "children": [
+          {
+            "id": "94d00ec8d333c717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Programming/go/00_project_ideas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_project_ideas"
+            }
+          },
+          {
+            "id": "28a0acaf933e6834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Study/Devops/docker/004_elk_express_api.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "004_elk_express_api"
+            }
+          },
           {
             "id": "6ebd750f4148af9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Study/Devops/terraform/___index.md",
+                "file": "02_Study/Devops/kubernetes/013_container_networking.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "013_container_networking"
             }
           },
           {
-            "id": "2059ce5e2e75acb4",
+            "id": "f9cc276b8253622d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Study/Devops/terraform/examples/004_aws_auto_scaling_group.md",
+                "file": "02_Study/Backend/kafka/04_kafka_connect.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "34c28102b4aa8f14",
-        "type": "tabs",
-        "dimension": 46.19921363040629,
-        "children": [
-          {
-            "id": "81fb1f54508df939",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "04_kafka_connect"
             }
           }
         ]
+      },
+      {
+        "id": "00e24cd4e262836a",
+        "type": "split",
+        "dimension": 43.84010484927916,
+        "children": [
+          {
+            "id": "7209bcd1ef2de7e2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c6ddc78c5f0c989",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Study/Devops/___devops_index.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "___devops_index"
+                }
+              },
+              {
+                "id": "02aabb73c0051678",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Study/Devops/docker/___index.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "___index"
+                }
+              }
+            ]
+          },
+          {
+            "id": "45f6625e0a1170e9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ac4b4ca1ba21f7bf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Study/System Design/___index.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "___index"
+                }
+              },
+              {
+                "id": "bbaac9b12eda7088",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Study/Devops/monitoring/__index.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "__index"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -75,7 +174,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -83,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -93,7 +196,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -117,6 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_Study/Devops/monitoring/03_basic_concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +230,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03_basic_concepts"
             }
           },
           {
@@ -133,9 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_Study/Devops/monitoring/03_basic_concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03_basic_concepts"
             }
           },
           {
@@ -146,7 +257,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -154,7 +267,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_Study/Devops/monitoring/03_basic_concepts.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03_basic_concepts"
             }
           },
           {
@@ -162,7 +279,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -177,7 +296,9 @@
             "type": "leaf",
             "state": {
               "type": "timer-view",
-              "state": {}
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
             }
           }
         ]
@@ -198,45 +319,49 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "81fb1f54508df939",
+  "active": "94d00ec8d333c717",
   "lastOpenFiles": [
-    "02_Study/Devops/terraform/examples/004_aws_auto_scaling_group.md",
-    "02_Study/Devops/terraform/examples/005_folder_structure.md",
-    "02_Study/Devops/terraform/004_modules.md",
-    "02_Study/Devops/terraform/005_combine_with_ansible.md",
-    "02_Study/Devops/terraform/003_resources.md",
-    "02_Study/Devops/terraform/002_states.md",
-    "02_Study/Devops/terraform/001_how_it_works.md",
-    "02_Study/Devops/terraform/000_intro.md",
-    "02_Study/Devops/terraform/examples/001_aws_security_group.md",
-    "02_Study/Devops/terraform/examples/003_aws_load_balancer.md",
-    "02_Study/Devops/terraform/examples/002_aws_VPC_setup_for_DEV_PROD_env.md",
-    "02_Study/Devops/terraform/___index.md",
-    "02_Study/Devops/networking/___index.md",
-    "02_Study/Devops/networking/012_auto_scaling_group.md",
-    "02_Study/Devops/ci-cd/index.md",
-    "02_Study/Devops/ci-cd/001_intro.md",
-    "02_Study/Devops/networking/011_load_balancers.md",
-    "02_Study/Devops/networking/010_VPC.md",
+    "04_Misc/vim_motions/00_anatomy.md",
+    "05_Programming/go/00_project_ideas.md",
+    "05_Programming/go",
+    "05_Programming",
+    "04_Misc/vim_motions/02_Inserting_text.md",
+    "04_Misc/vim_motions/06_workspace.md",
+    "04_misc/vim_motions/001_vim.md",
+    "04_Misc/vim_motions/05_game_changer.md",
+    "04_Misc/vim_motions/04_visual.md",
+    "04_Misc/vim_motions/03_delete.md",
+    "04_Misc/vim_motions/01_movement_{n}.md",
+    "04_Misc/vim_motions",
+    "02_Study/Devops/monitoring/03_basic_concepts.md",
+    "04_misc/Untitled.md",
+    "04_Misc",
+    "02_Study/Frontend/0008_Smooth_scrolling.md",
+    "02_Study/Devops/monitoring/__index.md",
+    "02_Study/System Design/___index.md",
+    "02_Study/Devops/kubernetes/___index.md",
     "02_Study/Devops/___devops_index.md",
-    "02_Study/Devops/___unCategorised/0000_intro.md",
-    "02_Study/Devops/terraform/examples",
-    "02_Study/Frontend/React/Topics/00000_everything.md",
-    "___index.md",
+    "02_Study/Devops/docker/___index.md",
+    "02_Study/System Design/017_loadbalancer_sharding.md",
+    "01_Projects/snappy_notes/idea.md",
+    "01_Projects/snappy_notes/resources.md",
+    "01_Projects/project_managment/idea.md",
+    "01_Projects/daily_planner/idea.md",
+    "01_Projects/carousel_maker/idea.md",
+    "01_Projects/bio_page_creator/idea.md",
+    "02_Study/Devops/kubernetes/019_kubeadm.md",
+    "02_Study/Devops/kubernetes/018_kops.md",
+    "02_Study/Devops/monitoring",
+    "02_Study/System Design/Design_A_System",
+    "02_Study/Devops/argocd",
+    "02_Study/Devops/ansible/helper_playbooks",
+    "02_Learning/Devops/networking",
+    "02_Learning/Devops",
     "Pasted image 20240920122952.png",
     "02_Study/Devops/___devops.canvas",
     "___canvas.canvas",
     "02_Study/Devops/networking/___networking.canvas",
-    "___canvas.md",
     "02_Study/Devops/kubernetes/___kubernetes.canvas",
-    "02_Study/Devops/kubernetes/002_setup.md",
-    "02_Study/Devops/kubernetes/001_intro.md",
-    "02_Learning/Devops/kubernetes/001_intro.md",
-    "02_Learning/Devops/kubernetes",
-    "02_Learning/Devops",
-    "02_Learning",
-    "02_Study/Devops/ansible",
-    "02_Study/Devops/terraform",
     "02_Study/Devops/networking/screenshots/content3.png",
     "02_Study/Devops/networking/screenshots/content2.png",
     "02_Study/Devops/networking/screenshots/content1.png",
@@ -246,10 +371,6 @@
     "02_Study/Frontend/screenshots/TypeScript Types.png",
     "02_Study/Frontend/screenshots/TypeScript Interfaces.png",
     "02_Study/Frontend/screenshots/TypeScript Control Flow Analysis.png",
-    "02_Study/Frontend/screenshots/Screen Recording 2024-07-15 190943.mp4",
-    "02_Study/Frontend/React/Topics",
-    "02_Study/Devops/___screenshots/digital-ai-periodic-table-of-devsecops-2024-may.pdf",
-    "02_Study/Devops/networking/screenshots",
     "02_Learning/Devops/kubernetes/___kubernetes.canvas",
     "02_Learning/Devops/networking/___networking.canvas",
     "02_Learning/Devops/___devops.canvas"

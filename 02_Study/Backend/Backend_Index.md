@@ -6,3 +6,6 @@ INDEX:
 - [[0003_caching]]
 - [[0004_advanced_logging]]
 - [[0005_Error_Handling]]
+- [[0006_kafka]]
+- [[0007_db_sharding_partitioning]]
+- [[0008_gRPC]]

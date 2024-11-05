@@ -29,11 +29,11 @@ share_updated: 2024-06-30T13:45:36+05:30
 
 [[___devops_index]]
 
-[[system_desing_index]]
+[[02_Study/System Design/___index]]
 
 ---
 ***Projects*** - here is the folder which contains the project files of my projects
-- Ideas live in here - [[__index]]
+- Ideas live in here - [[01_Projects/__index]]
 - it would generally contain a single file for each #project
 - like [[01_Projects/snappy_notes/idea]] for the rich text editor and note taking app we are currently working on
 

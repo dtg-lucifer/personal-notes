@@ -4,10 +4,11 @@ share_updated: 2024-09-17T14:03:34+05:30
 ---
 This is the index file for the kubernetes notes
 
-- [[02_Learning/Devops/kubernetes/001_intro|001_intro]]
+- [[000_the_hard_way]]
+- [[02_Study/Devops/kubernetes/001_intro|001_intro]]
 - [[002_setup]]
 - [[003_deployment]]
-- [[004_service]]
+- [[004_service]] 
 - [[005_objects_classes]]
 - [[006_resource_management]]
 - [[007_policies]]
@@ -18,3 +19,8 @@ This is the index file for the kubernetes notes
 - [[012_service_discovery_service_mesh]]
 - [[013_container_networking]]
 - [[014_tracing_logging_monitoring]]
+- [[015_CNI]]
+- [[016_network_policy]]
+- [[017_kubespray]]
+- [[018_kops]]
+- [[019_kubeadm]]

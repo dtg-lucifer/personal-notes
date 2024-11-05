@@ -29,6 +29,15 @@ INDEX: indexing for the devops section
 ### CI CD
 - [[02_Learning/Devops/ci-cd/index|index]]
 
+# Uncategrorised
+- [[0000_intro]]
+- [[0001_crash_course]]
+- [[0002_docker]]
+- [[0003_virtual_machines]]
+- [[0004_tools_to_know]]
+- [[0005_tmux]]
+- [[0006_setup_server_for_CICD]] - This contains the necessary commands to for configuring and running full fledge CI CD pipeline to deploy a application on *EKS* with *Jenkins* and monitor using *Prometheus and Grafana*
+
 # IAC
 ***Terraform - [[02_Study/Devops/terraform/___index|___index]]***
 ***Ansible - [[02_Study/Devops/ansible/___index|___index]]***
