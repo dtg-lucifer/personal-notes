@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "💱",
       "LiFileCode2",
       "✌",
       "LiMonitorCheck",
-      "🐙",
-      "⚛"
+      "🐙"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -54,5 +54,6 @@
   "02_Study/Devops/argocd": "🐙",
   "02_Study/Devops/monitoring": "LiMonitorCheck",
   "04_Misc": "✌",
-  "05_Programming": "LiFileCode2"
+  "05_Programming": "LiFileCode2",
+  "02_Study/Blockchain": "💱"
 }

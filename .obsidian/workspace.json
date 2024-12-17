@@ -6,7 +6,6 @@
       {
         "id": "76e703b4ef3d1ae9",
         "type": "tabs",
-        "dimension": 56.15989515072084,
         "children": [
           {
             "id": "94d00ec8d333c717",
@@ -14,142 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Programming/go/00_project_ideas.md",
+                "file": "02_Study/Blockchain/002_imp_topics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_project_ideas"
-            }
-          },
-          {
-            "id": "28a0acaf933e6834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Study/Devops/docker/004_elk_express_api.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "004_elk_express_api"
-            }
-          },
-          {
-            "id": "6ebd750f4148af9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Study/Devops/kubernetes/013_container_networking.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "013_container_networking"
-            }
-          },
-          {
-            "id": "f9cc276b8253622d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Study/Backend/kafka/04_kafka_connect.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04_kafka_connect"
+              "title": "002_imp_topics"
             }
           }
         ]
-      },
-      {
-        "id": "00e24cd4e262836a",
-        "type": "split",
-        "dimension": 43.84010484927916,
-        "children": [
-          {
-            "id": "7209bcd1ef2de7e2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8c6ddc78c5f0c989",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02_Study/Devops/___devops_index.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "___devops_index"
-                }
-              },
-              {
-                "id": "02aabb73c0051678",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02_Study/Devops/docker/___index.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "___index"
-                }
-              }
-            ]
-          },
-          {
-            "id": "45f6625e0a1170e9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ac4b4ca1ba21f7bf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02_Study/System Design/___index.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "___index"
-                }
-              },
-              {
-                "id": "bbaac9b12eda7088",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02_Study/Devops/monitoring/__index.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "__index"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -280,8 +153,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -297,8 +170,8 @@
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "timer",
-              "title": "Timer"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -321,8 +194,16 @@
   },
   "active": "94d00ec8d333c717",
   "lastOpenFiles": [
-    "04_Misc/vim_motions/00_anatomy.md",
+    "02_Study/Blockchain/___index.md",
+    "02_Study/Blockchain/002_imp_topics.md",
+    "02_Study/Blockchain/001_intro.md",
     "05_Programming/go/00_project_ideas.md",
+    "02_Study/Blockchain",
+    "02_Study/Devops/___unCategorised/0000_intro.md",
+    "02_Study/Devops/___devops_index.md",
+    "02_Study/Devops/terraform/examples/008_full_architecture.md",
+    "Screenshot 2024-11-06 132849.png",
+    "04_Misc/vim_motions/00_anatomy.md",
     "05_Programming/go",
     "05_Programming",
     "04_Misc/vim_motions/02_Inserting_text.md",
@@ -340,23 +221,16 @@
     "02_Study/Devops/monitoring/__index.md",
     "02_Study/System Design/___index.md",
     "02_Study/Devops/kubernetes/___index.md",
-    "02_Study/Devops/___devops_index.md",
     "02_Study/Devops/docker/___index.md",
     "02_Study/System Design/017_loadbalancer_sharding.md",
     "01_Projects/snappy_notes/idea.md",
     "01_Projects/snappy_notes/resources.md",
     "01_Projects/project_managment/idea.md",
-    "01_Projects/daily_planner/idea.md",
-    "01_Projects/carousel_maker/idea.md",
-    "01_Projects/bio_page_creator/idea.md",
-    "02_Study/Devops/kubernetes/019_kubeadm.md",
-    "02_Study/Devops/kubernetes/018_kops.md",
     "02_Study/Devops/monitoring",
     "02_Study/System Design/Design_A_System",
     "02_Study/Devops/argocd",
     "02_Study/Devops/ansible/helper_playbooks",
     "02_Learning/Devops/networking",
-    "02_Learning/Devops",
     "Pasted image 20240920122952.png",
     "02_Study/Devops/___devops.canvas",
     "___canvas.canvas",
@@ -370,7 +244,6 @@
     "02_Study/Devops/kubernetes/___screenshots/Pasted image 20240915221307.png",
     "02_Study/Frontend/screenshots/TypeScript Types.png",
     "02_Study/Frontend/screenshots/TypeScript Interfaces.png",
-    "02_Study/Frontend/screenshots/TypeScript Control Flow Analysis.png",
     "02_Learning/Devops/kubernetes/___kubernetes.canvas",
     "02_Learning/Devops/networking/___networking.canvas",
     "02_Learning/Devops/___devops.canvas"
