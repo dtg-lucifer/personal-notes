@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "76e703b4ef3d1ae9",
+        "id": "15ebcbfd95953d44",
         "type": "tabs",
         "children": [
           {
-            "id": "94d00ec8d333c717",
+            "id": "26f4eec113bd9bc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Study/Blockchain/002_imp_topics.md",
+                "file": "00_shithold/blog_ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002_imp_topics"
+              "title": "blog_ideas"
             }
           }
         ]
@@ -146,35 +146,9 @@
               "icon": "lucide-list",
               "title": "Outline of 03_basic_concepts"
             }
-          },
-          {
-            "id": "c0d78fb1d2b7f5da",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "39bcd8127ac69b0b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3c894dcd8ca61bfc",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,49 +162,49 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": true,
-      "pomodoro-timer:Toggle timer panel": false
+      "command-palette:Open command palette": true
     }
   },
-  "active": "94d00ec8d333c717",
+  "active": "26f4eec113bd9bc0",
   "lastOpenFiles": [
-    "02_Study/Blockchain/___index.md",
-    "02_Study/Blockchain/002_imp_topics.md",
+    "01_Projects/advanced_projects/01_decentralized_task_management/idea.md",
+    "01_Projects/advanced_projects/02_realtime_code_editor/kanban.md",
+    "01_Projects/advanced_projects/01_decentralized_task_management/kanban.md",
+    "01_Projects/advanced_projects/02_realtime_code_editor/idea.md",
+    "03_Journal/2024_april_to_dec.md",
+    "01_Projects/advanced_projects/02_realtime_code_editor",
+    "00_shithold/project_kanban.md",
+    "01_Projects/advanced_projects/01_decentralized_task_management",
+    "00_shithold/blog_ideas.md",
+    "01_Projects/advanced_projects/10_blockchain_based_crowdfunding_app.md",
+    "03_Journal/2025_jan.md",
+    "02_Study/Blockchain/bitcoin.pdf",
+    "01_Projects/advanced_projects/09_decentralized_voting_platform.md",
+    "01_Projects/advanced_projects/08_ai_powered_supply_chain_management.md",
+    "01_Projects/advanced_projects/07_multicloud_load_balancer_with_blockchain_verification.md",
+    "01_Projects/advanced_projects/06_serverless_social_media_platform.md",
+    "01_Projects/advanced_projects/05_decentralized_identity_management_system.md",
+    "01_Projects/advanced_projects/04_event_management_platform_blockchain_tickets.md",
+    "01_Projects/advanced_projects/03_distributed_file_synchronization_tool.md",
+    "02_Study/Blockchain/007_51_percent_rule.md",
+    "01_Projects/advanced_projects",
+    "02_Study/Blockchain/006_consensous.md",
+    "02_Study/Blockchain/005_Proof_of_stake.md",
+    "02_Study/Blockchain/004_Proof_of_work.md",
     "02_Study/Blockchain/001_intro.md",
+    "02_Study/Blockchain/___index.md",
+    "02_Study/Blockchain/ethereum.pdf",
+    "02_Study/Blockchain/ethereum_yellow_paper.pdf",
+    "02_Study/Blockchain/003_POS_POW.md",
+    "02_Study/Blockchain/002_imp_topics.md",
+    "04_Misc/creds/Phantom_wallet_secrete_phrase.md",
+    "02_Study/Programming",
     "05_Programming/go/00_project_ideas.md",
-    "02_Study/Blockchain",
-    "02_Study/Devops/___unCategorised/0000_intro.md",
-    "02_Study/Devops/___devops_index.md",
-    "02_Study/Devops/terraform/examples/008_full_architecture.md",
+    "04_Misc/creds/Pasted image 20241224222126.png",
+    "04_Misc/creds",
+    "06_College/cloud",
+    "06_College",
     "Screenshot 2024-11-06 132849.png",
-    "04_Misc/vim_motions/00_anatomy.md",
-    "05_Programming/go",
-    "05_Programming",
-    "04_Misc/vim_motions/02_Inserting_text.md",
-    "04_Misc/vim_motions/06_workspace.md",
-    "04_misc/vim_motions/001_vim.md",
-    "04_Misc/vim_motions/05_game_changer.md",
-    "04_Misc/vim_motions/04_visual.md",
-    "04_Misc/vim_motions/03_delete.md",
-    "04_Misc/vim_motions/01_movement_{n}.md",
-    "04_Misc/vim_motions",
-    "02_Study/Devops/monitoring/03_basic_concepts.md",
-    "04_misc/Untitled.md",
-    "04_Misc",
-    "02_Study/Frontend/0008_Smooth_scrolling.md",
-    "02_Study/Devops/monitoring/__index.md",
-    "02_Study/System Design/___index.md",
-    "02_Study/Devops/kubernetes/___index.md",
-    "02_Study/Devops/docker/___index.md",
-    "02_Study/System Design/017_loadbalancer_sharding.md",
-    "01_Projects/snappy_notes/idea.md",
-    "01_Projects/snappy_notes/resources.md",
-    "01_Projects/project_managment/idea.md",
-    "02_Study/Devops/monitoring",
-    "02_Study/System Design/Design_A_System",
-    "02_Study/Devops/argocd",
-    "02_Study/Devops/ansible/helper_playbooks",
-    "02_Learning/Devops/networking",
     "Pasted image 20240920122952.png",
     "02_Study/Devops/___devops.canvas",
     "___canvas.canvas",
@@ -243,7 +217,6 @@
     "02_Study/Devops/kubernetes/___screenshots/Pasted image 20240915221421.png",
     "02_Study/Devops/kubernetes/___screenshots/Pasted image 20240915221307.png",
     "02_Study/Frontend/screenshots/TypeScript Types.png",
-    "02_Study/Frontend/screenshots/TypeScript Interfaces.png",
     "02_Learning/Devops/kubernetes/___kubernetes.canvas",
     "02_Learning/Devops/networking/___networking.canvas",
     "02_Learning/Devops/___devops.canvas"

@@ -67,3 +67,22 @@ A **blockchain** is a distributed, digital ledger that records transactions in a
 6. **Voting Systems**: Transparent and fraud-proof election processes.
 
 In summary, blockchain ensures **trust**, **security**, and **transparency** through its decentralized and cryptographically secure structure.
+
+---
+
+# Roadmap to being a Developer
+
+### DeFI
+> Main Projects
+> ERC20
+> Decentralized Exchanges
+> Yield Farming
+> Staking
+> Flashloan
+
+### NFT
+> ERC721
+> Create NFT collection
+> Mint NFT collection
+> Handle Metadata
+

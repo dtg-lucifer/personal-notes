@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "🧠",
+      "LiCode2",
       "💱",
       "LiFileCode2",
-      "✌",
-      "LiMonitorCheck",
-      "🐙"
+      "✌"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,7 +33,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "00_Quick_notes": "🌩",
   "01_Projects": "💻",
   "03_Journal": "🖋",
   "02_Study": "📕",
@@ -54,6 +53,7 @@
   "02_Study/Devops/argocd": "🐙",
   "02_Study/Devops/monitoring": "LiMonitorCheck",
   "04_Misc": "✌",
-  "05_Programming": "LiFileCode2",
-  "02_Study/Blockchain": "💱"
+  "02_Study/Blockchain": "💱",
+  "02_Study/Programming": "LiCode2",
+  "00_shithold": "🧠"
 }
