@@ -1,5 +1,6 @@
 
 # Incubating ideas
+- [ ] What is IPFS - Inter Planetory File System, current cloud file storage vs. ipfs, pros & cons
 - [ ] Are we there yet for another skynet or genesis ? (future of the human race) - [[#Skynet & Genesis]]
 - [ ] Do you really need Kuberenets? Docker swarm vs. Kubernetes
 - [ ] Event driven development, do you really wanna go down that way ? 

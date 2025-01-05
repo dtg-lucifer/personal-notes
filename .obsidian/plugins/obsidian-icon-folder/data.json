@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "LiNewspaper",
       "🧠",
       "LiCode2",
       "💱",
-      "LiFileCode2",
-      "✌"
+      "LiFileCode2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,5 +55,6 @@
   "04_Misc": "✌",
   "02_Study/Blockchain": "💱",
   "02_Study/Programming": "LiCode2",
-  "00_shithold": "🧠"
+  "00_shithold": "🧠",
+  "05_GATE_PREP": "LiNewspaper"
 }

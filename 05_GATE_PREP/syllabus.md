@@ -1,0 +1,141 @@
+# CS-IT
+
+#### **Main paper**
+- **Digital Logic**
+	- Boolean algebra
+	- Registers
+	- Counter 
+	- Flip Flop
+	- Combinational Circuit
+	- Sequential Circuit
+	- Number System
+- **Computer Network**
+	- Wired LAN
+	- Media Access Controll (MAC)
+	- Data link control
+	- Error detection & correction
+	- Data link layer
+	- Physical Layer
+	- Computer Network basics
+	- Basics of wifi
+	- Network security
+	- Cryptography
+	- Application layer
+	- Transport layer
+	- Routing Algorithms
+	- Network layer protocol
+	- Network layer
+- **Database Management System**
+	- File Organization & Indexing
+	- Constraints
+	- Relational Algebra
+	- Schedule
+	- ER Model
+	- SQL
+	- Index Structure
+	- B-Tree
+	- Concurrency Control Techniques
+	- Serializability
+	- B+ Tree
+	- Introduction to DBMS Transaction
+	- Normalization
+	- Relationship Model
+- **Theory of computation**
+	- Language
+	- Recursive language and REL
+	- Decidability
+	- Regular Expression
+	- Turing Machine
+	- Regular Language
+	- CSL and Grammar
+	- Pushdown Automata
+	- Regular Grammar
+	- Context Free Grammar
+	- Types of Finite Automata
+	- Automation
+	- Finite Automata
+- **COA**
+	- Secondery Storage
+	- Direct memory access
+	- Control unit and design
+	- Cache memory
+	- Amdal's law
+	- Measuring CPU Performance
+	- CISC and RISC Architectures
+	- ALU, Data path & control unit
+	- Instruction classification
+	- Adressing mode
+	- I/O interface
+	- Memory hierarchy design
+	- Basics of computer design
+	- Pipelining
+	- Machine intructions
+	- Data transfer techniques
+- **Compiler Design**
+	- Context Free Grammars
+	- Compiler
+	- Parsing
+	- Intermediate Code Generation
+	- Syntax Directed Definition
+	- Lexical Analysis
+	- Run Time Environment
+	- Optimization
+- **Programming & Data Structure**
+	- Queue
+	- Hashing
+	- Tree
+	- Stack
+	- Array
+	- Linked List
+	- C Programming
+- **Algorithms**
+	- Greedy Techniques
+	- Graph Based Algorithm
+	- P-NP Completeness
+	- Divide and Conquer Applications of Greedy Techniques
+	- Single Source Shortest Path
+	- Recurrence Relations
+	- Dynamic Programming
+	- Searching
+- **Operating System**
+	- Process and Threads
+	- CPU Scheduling
+	- Scheduling
+	- Processes
+	- Memory Management
+	- File System
+	- Disk Storage Structures
+	- Input/Output System
+	- Process Synchronization
+	- Synchronization Techniques
+	- Thread
+	- Operating System
+	- Virtual Memory
+	- Deadlock
+- **Discrete Mathematics**
+	- Predicates and Quantifiers
+	- Propostions
+	- Basics of Counting
+	- Sets
+	- Group Theory
+	- Relations
+	- Graph Theory
+	- Functions
+	- Linear Algebra
+	- Calculus
+	- Probability
+
+#### **Aptitude and Engineering Maths**
+- **General Aptitude**
+	- Verbal Ability
+	- Numerical Ability
+	- PYQs
+- **Engineering Mathematics**
+	- Differential Equations
+	- Probability & Distribution
+	- Linear Algebra
+	- Calculus 
+	- Complex Variables
+	- Vector Calculus
+	- Transform Theory
+	- Numerical Methods
