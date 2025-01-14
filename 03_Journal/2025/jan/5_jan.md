@@ -1,14 +1,3 @@
-# 3rd Jan
-So far so good with the new year, nothing abnormal happened, i guess this year might go well with me, karon amr sathe kharap howa ta bible geeta quoran sobetei ekdm permanent marker die lekha ache,
-
----
-# 4th Jan
-Jantam to, kalkei ektu bhalo likhlam and aj abr sordi hoye gelo, sala bc, khub birokto lage bhai sordi hole, sarakhon rumal nie ghure berao, aj porao holo na
-
-Rate sowar age ektu GATE er previous year paper gulo and syllabus ta download kore niechi, dekhi kaje lage kina, adou gate ta dite pari kina
-
----
-# 5th Jan
 Sokal sokal uthe baba sunie dilo, "Tor bhobissot sotti ondhokar" mane amr ar ki.
 
 Ektu sorir ta thik ache, matha betha ta ektu ache still, i willl survive, kal clg na gele khub kharap lagbe, etodin dekha hoini, or sathe, i waana go to clg kal, dekha jak
@@ -21,4 +10,5 @@ Dived deep into blockchain, no longer need to stay on dapp development side, i n
 
 Learned how **Merkle tree** works
 
----
+Had the greates fight with her so far 😭😭😭😭
+But made it to the safety for the love we have for each other

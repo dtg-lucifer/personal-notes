@@ -1,0 +1,1 @@
+So far so good with the new year, nothing abnormal happened, i guess this year might go well with me, karon amr sathe kharap howa ta bible geeta quoran sobetei ekdm permanent marker die lekha ache,

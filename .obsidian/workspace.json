@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_GATE_PREP/syllabus.md",
+                "file": "03_Journal/2025/jan/14_jan.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "syllabus"
+              "title": "14_jan"
             }
           }
         ]
@@ -141,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Study/Devops/monitoring/03_basic_concepts.md"
+                "file": "03_Journal/2025/jan/7_jan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 03_basic_concepts"
+              "title": "Outline of 7_jan"
             }
           }
         ],
@@ -165,20 +165,30 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "db650baf3f931bf1",
+  "active": "4adc33abcf39cf9f",
   "lastOpenFiles": [
-    "Pasted image 20250105225928.png",
+    "03_Journal/2025/jan/12_jan.md",
+    "03_Journal/2025/jan/14_jan.md",
+    "03_Journal/2025/jan/7_jan.md",
+    "Adrija(00917980382572)_20250107183107.mp3",
+    "03_Journal/2025/jan/2025_jan_7-13.md",
+    "03_Journal/2025/jan/6_jan.md",
+    "03_Journal/2025/jan/2025_jan_1-6.md",
+    "03_Journal/2025/jan/5_jan.md",
+    "03_Journal/2025/jan/4_jan.md",
+    "03_Journal/2025/jan/3_jan.md",
+    "03_Journal/2025/jan",
+    "03_Journal/2024/2024_dec.md",
     "05_GATE_PREP/syllabus.md",
+    "Pasted image 20250105225928.png",
     "05_GATE_PREP/GATE _CS_2025_Syllabus.pdf",
     "05_GATE_PREP/GATE _CS_2024_PAPER_1.pdf",
     "05_GATE_PREP/GATE _CS_2024_PAPER_2.pdf",
     "05_GATE_PREP/GATE _CS_2023_PAPER.pdf",
     "05_GATE_PREP/GATE _CS_2022_PAPER.pdf",
-    "03_Journal/2025/2025_jan.md",
     "05_GATE_PREP",
     "02_Study/Blockchain/017_sybil_attack.md",
     "02_Study/Blockchain/___index.md",
-    "03_Journal/2024/2024_dec.md",
     "03_Journal/2024/2024_april_to_dec.md",
     "02_Study/Blockchain/010_how_blockchain_works.md",
     "02_Study/Blockchain/016_flow_of_query_data.md",
@@ -196,15 +206,6 @@
     "01_Projects/advanced_projects/01_decentralized_task_management/kanban.md",
     "01_Projects/advanced_projects/01_decentralized_task_management/Pasted image 20250101230449.png",
     "00_shithold/blog_ideas.md",
-    "01_Projects/advanced_projects/02_realtime_code_editor/kanban.md",
-    "01_Projects/advanced_projects/02_realtime_code_editor/idea.md",
-    "01_Projects/advanced_projects/02_realtime_code_editor",
-    "00_shithold/project_kanban.md",
-    "01_Projects/advanced_projects/01_decentralized_task_management",
-    "01_Projects/advanced_projects/10_blockchain_based_crowdfunding_app.md",
-    "01_Projects/advanced_projects/09_decentralized_voting_platform.md",
-    "01_Projects/advanced_projects/08_ai_powered_supply_chain_management.md",
-    "01_Projects/advanced_projects/07_multicloud_load_balancer_with_blockchain_verification.md",
     "04_Misc/creds/Pasted image 20241224222126.png",
     "Screenshot 2024-11-06 132849.png",
     "Pasted image 20240920122952.png",
