@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Journal/2025/jan/14_jan.md",
+                "file": "00_shithold/01_k8s_swarm.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "14_jan"
+              "title": "01_k8s_swarm"
             }
           }
         ]
@@ -68,7 +68,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -141,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Journal/2025/jan/7_jan.md"
+                "file": "01_Projects/portfolio/idea.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7_jan"
+              "title": "Outline of idea"
             }
           }
         ],
@@ -167,8 +171,21 @@
   },
   "active": "4adc33abcf39cf9f",
   "lastOpenFiles": [
-    "03_Journal/2025/jan/12_jan.md",
+    "00_shithold/00_blog_ideas.md",
+    "00_shithold/01_k8s_swarm.md",
+    "01_Projects/portfolio/idea.md",
+    "Pasted image 20250122222734.png",
+    "02_Study/Programming/c++/001_vectors.md",
+    "01_Projects/portfolio",
+    "02_Study/DSA/000/segment-tree1.png",
+    "02_Study/Programming/c++",
+    "02_Study/DSA/000/IntervalSearcTree.png",
+    "02_Study/DSA/000/13.1-1-2.png",
+    "02_Study/DSA/000/1_grnKmKuXnGV6exgiVkDnJw.jpg",
+    "02_Study/DSA/DSA_Index.md",
+    "03_Journal/2025/jan/19_jan.md",
     "03_Journal/2025/jan/14_jan.md",
+    "03_Journal/2025/jan/12_jan.md",
     "03_Journal/2025/jan/7_jan.md",
     "Adrija(00917980382572)_20250107183107.mp3",
     "03_Journal/2025/jan/2025_jan_7-13.md",
@@ -196,27 +213,14 @@
     "02_Study/Blockchain/014_merkle_tree_utxo_sets.md",
     "02_Study/Blockchain/013_efficient_data_lookup.md",
     "02_Study/Blockchain/011_current_state.md",
-    "02_Study/Blockchain/012_how_storage_works.md",
-    "02_Study/Blockchain/009_nakamoto_consensus.md",
-    "03_Journal/2025",
-    "03_Journal/2024",
-    "02_Study/Blockchain/008_oracle.md",
     "02_Study/Blockchain/Pasted image 20250102205325.png",
-    "01_Projects/advanced_projects/01_decentralized_task_management/idea.md",
-    "01_Projects/advanced_projects/01_decentralized_task_management/kanban.md",
     "01_Projects/advanced_projects/01_decentralized_task_management/Pasted image 20250101230449.png",
-    "00_shithold/blog_ideas.md",
     "04_Misc/creds/Pasted image 20241224222126.png",
     "Screenshot 2024-11-06 132849.png",
-    "Pasted image 20240920122952.png",
     "02_Study/Devops/___devops.canvas",
     "___canvas.canvas",
     "02_Study/Devops/networking/___networking.canvas",
     "02_Study/Devops/kubernetes/___kubernetes.canvas",
-    "02_Study/Devops/networking/screenshots/content3.png",
-    "02_Study/Devops/networking/screenshots/content2.png",
-    "02_Study/Devops/networking/screenshots/content1.png",
-    "02_Study/Devops/kubernetes/___screenshots/Pasted image 20240915230948.png",
     "02_Learning/Devops/kubernetes/___kubernetes.canvas",
     "02_Learning/Devops/networking/___networking.canvas",
     "02_Learning/Devops/___devops.canvas"

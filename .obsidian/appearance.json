@@ -1,9 +1,10 @@
 {
-  "accentColor": "#7d7d7d",
+  "accentColor": "#8a87a6",
   "cssTheme": "Border",
   "theme": "obsidian",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "nativeMenus": false,
   "interfaceFontFamily": "HP Simplified",
-  "textFontFamily": "Inter"
+  "textFontFamily": "Inter",
+  "showRibbon": true
 }
