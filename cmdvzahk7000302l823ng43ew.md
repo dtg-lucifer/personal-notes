@@ -545,11 +545,7 @@ pub enum Token {
     Immediate(u8),
     /// e.g. $2A
     Hex(u8),
-    /// e.g. label: in the form of
-    /// ```asm
-    /// label:
-    ///     PUSH %10
-    /// ```
+    /// e.g. labeels
     LabelDecl(String),
 }
 
