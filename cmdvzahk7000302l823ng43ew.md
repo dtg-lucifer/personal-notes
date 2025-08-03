@@ -6,7 +6,7 @@ datePublished: Sun Aug 03 2025 17:51:47 GMT+0000 (Coordinated Universal Time)
 cuid: cmdvzahk7000302l823ng43ew
 slug: building-a-16-bit-virtual-machine-in-rust-understanding-computer-architecture-from-the-ground-up
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754243271277/94fe8a8a-e6e1-4a32-b350-102c66793787.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1754243449931/656adfda-33ac-4181-af2f-0e21e199bf99.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1754246350481/399da3d9-883c-423d-8f4d-98f6fe6f1400.png
 tags: virtual-machine, rust, low-level-programming, 16bit, 6502-processor
 
 ---
